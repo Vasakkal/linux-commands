@@ -1,1 +1,5 @@
-
+pwd
+mkdir
+ls
+ls -ltr
+echo "student name"
